@@ -1,0 +1,1 @@
+{"benchGroups":[{"groupMembers":["comment-rate"],"groupName":"Code quality"},{"groupMembers":["loc/CSS","loc/HTML","loc/JavaScript","loc/haskell"],"groupName":"Lines of Code"}]}

@@ -1,0 +1,1 @@
+{"revisions":{"b2ece6e188d66669fe58505f85eb7918be3a1abb":{"summary":{"hash":"b2ece6e188d66669fe58505f85eb7918be3a1abb","gitSubject":"Avoid / in hasher.setHash\n","stats":{"regressionCount":0,"improvementCount":0,"totalCount":5},"parents":["726cda7c3f46c330c514eb5920ab60491d40b6e4"],"gitDate":1420980600}}}}
