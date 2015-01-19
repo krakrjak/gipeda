@@ -1,0 +1,1 @@
+{"revisions":{"66e553e22a97ff82d0fdc77c3650289784d8a0a9":{"summary":{"hash":"66e553e22a97ff82d0fdc77c3650289784d8a0a9","gitSubject":"Move GHC-specific files to ghc/\n","stats":{"regressionCount":0,"improvementCount":0,"totalCount":5},"parents":["363088996ee93385d497b43db872455611dfffdb"],"gitDate":1421157450}}}}
