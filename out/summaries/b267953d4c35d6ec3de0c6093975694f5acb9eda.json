@@ -1,0 +1,1 @@
+{"revisions":{"b267953d4c35d6ec3de0c6093975694f5acb9eda":{"summary":{"hash":"b267953d4c35d6ec3de0c6093975694f5acb9eda","gitSubject":"Also depend on ghc-prim\n","stats":{"regressionCount":0,"improvementCount":0,"totalCount":5},"parents":["ced76dc6cf5306f7ad3c1bbdf29b50277e300f25"],"gitDate":1421671860}}}}
